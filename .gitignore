@@ -3,6 +3,7 @@
 # Backup files
 *.s#?
 *.b#?
+*.d#?
 *.l#?
 *.b$?
 *.s$?
